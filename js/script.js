@@ -21,7 +21,7 @@ console.log(coloreUtente);
 var numero = 21;
 
 // Scrive sulla pagina
-document.getElementById("nome").innerHTML = nomeUtente + cognomeUtente + coloreUtente + numero;
+document.getElementById("password").innerHTML = nomeUtente + cognomeUtente + coloreUtente + numero;
 
 
 
